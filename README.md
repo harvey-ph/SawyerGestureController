@@ -21,6 +21,7 @@ pip3 install eigenpy
 Go to your workspace root and then `/src/sawyer_simulator/sawyer_gazebo/launch/sawyer_world.launch`
 Change the value here to true:
 ![Enabling Gripper](images/Picture1.png)
+
 Then go to  `/src/sawyer_robot/sawyer_description/urdf/sawyer.urdf.xacro`, change this value to true:
 ![Enabling Gripper](images/Picture2.png)
 
