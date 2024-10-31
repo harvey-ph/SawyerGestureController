@@ -11,8 +11,9 @@ pip install -r requirements.txt
 
 - In the ROS device, run the following command:
 ```bash
-sudo apt-get install ros-noetic-kdl-parser-py 
-sudo apt-get install ros-noetic-eigenpy 
+sudo apt install ros-noetic-kdl-parser-py 
+sudo apt install ros-noetic-eigenpy 
+sudo apt install python3-pykdl
 pip3 install urdf-parser-py
 pip3 install eigenpy
 ```
