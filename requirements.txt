@@ -1,0 +1,14 @@
+matplotlib
+mediapipe
+numpy
+opencv-contrib-python
+opencv-python
+pandas
+pillow
+PyYAML
+scikit-learn
+scipy
+seaborn
+torch
+tqdm
+jupyter-notebook
