@@ -29,7 +29,7 @@ Then go to  `/src/sawyer_robot/sawyer_description/urdf/sawyer.urdf.xacro` , chan
 
 ![Enabling Gripper](images/Picture2.png)
 
-Make sure you have Python 3.x installed on your system.
+Make sure you have Python 3.x and ROS Noetic version installed on your system.
 
 ## Usage
 
