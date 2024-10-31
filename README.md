@@ -9,7 +9,7 @@ The dataset used to train and evaluate the classification model is [HaGRID](http
 pip install -r requirements.txt
 ```
 
-- For ROS, run the following command:
+- In the ROS device, run the following command:
 ```bash
 sudo apt-get install ros-noetic-kdl-parser-py 
 sudo apt-get install ros-noetic-eigenpy 
@@ -50,7 +50,7 @@ In the ROS device, open at least 2 terminal windows, navigate to the root of you
 roslaunch sawyer_gazebo sawyer_world.launch
 ```
 
-- In the second terminal: running main file:
+- In the second terminal: running main file
 ```bash
 ./src/intera_sdk/intera.sh sim
 
